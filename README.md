@@ -1,5 +1,5 @@
-## recetAMUS
-# proyecto IV
+# recetAMUS
+### proyecto IV
 
   Soy una estudiante de Erasmus que no estaba acostumbrada a cocinar ni a pensar 
   qué comer. Mi problema es que ahora tengo que pensar en dos comidas para 
