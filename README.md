@@ -2,9 +2,12 @@
 
 ### Problema - proyecto IV
 
-Soy una estudiante Erasmus que no estaba acostumbrada a cocinar ni a pensar qué comer. 
-Mi problema es que ahora tengo que pensar en dos comidas para siete días a la semana con antelación para saber qué productos e ingredientes comprar y cómo cocinarlos o si necesito descongelar algo. 
-También es importante mantener una dieta sana y equilibrada para preparar comidas variadas y no comer siempre lo mismo. Por eso necesito sugerencias de recetas caseras, como en https://www.recetasgratis.net/.
+I'm an Erasmus student who wasn't used to cooking or thinking about what to eat.
+My problem is that I often have no idea what to cook or how to cook it, causing me 
+to waste a lot of time looking for recipes I like, which is why I needed to create 
+a meal plan for the whole week, so that I would know the shopping list in advance 
+and the need to defrost something.
+
 
 ### Configuración del repositorio
 ![screenshot](/config/ssh_key.png)
