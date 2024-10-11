@@ -2,11 +2,12 @@
 
 ### Problema - proyecto IV
 
-I'm an Erasmus student who wasn't used to cooking or thinking about what to eat.
-My problem is that I often have no idea what to cook or how to cook it, causing me 
-to waste a lot of time looking for recipes I like, which is why I needed to create 
-a meal plan for the whole week, so that I would know the shopping list in advance 
-and the need to defrost something.
+I'm an Erasmus student who wasn't used to cooking or thinking about what to eat. 
+My problem is that I often have no idea how to cook the recipes I was used to back home,which 
+leads me to waste a lot of time looking for similar ones on the internet or asking my mum.
+As a student, I need something practical and simple so I can concentrate on my studies, something 
+where I just have to put in my food preferences and choose the recipes I like, creating a shopping 
+list to make for the week, already knowing what I have at home, saving me even more time.
 
 
 ### Configuración del repositorio
